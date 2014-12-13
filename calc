@@ -1,3 +1,4 @@
+#edited version for osiac
 import osaic
 import osaic
 >>> osaic.mosaificy(
